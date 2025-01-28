@@ -1,0 +1,13 @@
+name: upgrade_final2
+version: '1.0-SNAPSHOT'
+main: upgrade_final2.upgrade_final2.Upgrade_final2
+api-version: '1.20'
+commands:
+  yourcommand:
+    description: Your command description here
+
+# 추가된 슈퍼 점프 이벤트 리스너 등록
+permissions:
+  yourplugin.superjump:
+    description: "Allows access to SuperJump feature"
+    default: true

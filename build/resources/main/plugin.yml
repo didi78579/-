@@ -1,0 +1,12 @@
+name: Upgrade_Plugin
+main: upgrade_final2.upgrade_final2.Upgrade_final2
+version: 1.0
+api-version: 1.20
+author: YourName
+commands:
+  controlend:
+    description: Control access to the end world (on/off).
+    usage: /controlend <on|off>
+  resetend:
+    description: Resets the end world.
+    usage: /resetend

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="upgrade_final2:jar2">
+    <output-path>$PROJECT_DIR$/out/artifacts/upgrade_final2_jar2</output-path>
+    <root id="archive" name="upgrade_final2.jar">
+      <element id="artifact" artifact-name="upgrade_final2:jar" />
+    </root>
+  </artifact>
+</component>
